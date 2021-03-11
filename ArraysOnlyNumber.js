@@ -2,13 +2,9 @@
 
 /* Dado un array Debes devolver el entero que no se repita   */ 
 
-
 arr = [1,3,5,3,1]
-
-
-
-
 countNumber = {}
+
 
 /*  Forma 1 clásica  - Condicional y For  */ 
 
@@ -87,4 +83,4 @@ function OnlyNumberXor(arr){
 }
 
 
-console.log(OnlyNumberXor( [7,4,3,88,4,88,3]))
+// console.log(OnlyNumberXor( [7,4,3,88,4,88,3]))

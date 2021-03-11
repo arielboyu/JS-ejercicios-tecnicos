@@ -1,4 +1,6 @@
 /*------------------------------Buenas Prácticas JS------------------------------------ */
+// algunas optimizaciones de código para poner en práctica
+
 //============================//
 // #1 numeric a string
 //============================//
